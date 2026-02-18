@@ -1,2 +1,2 @@
 # mygithubrepo
-My GitHub test repository that I've connected locally.
+My GitHub test repository that I've connected locally in my computer.
